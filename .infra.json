@@ -1,0 +1,4 @@
+{
+	"require":"infra.php",
+	"dependencies":"event"
+}
