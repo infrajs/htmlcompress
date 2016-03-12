@@ -1,5 +1,8 @@
 {
 	"name":"infrajs/htmlcompress",
+	"homepage":"https://github.com/infrajs/htmlcompress",
+	"description":"Compress output html",
+	"license": "GPL3",
 	"require":{
 		"wyrihaximus/html-compress":"~1",
 		"infrajs/event":"~1",
