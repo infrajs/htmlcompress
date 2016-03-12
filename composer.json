@@ -1,7 +1,10 @@
 {
 	"name":"infrajs/htmlcompress",
 	"require":{
-		"wyrihaximus/html-compress":"dev-master as 1"
+		"wyrihaximus/html-compress":"~1",
+		"infrajs/event":"~1",
+		"infrajs/view":"~1",
+		"infrajs/access":"~1"
 	},
 	"repositories":[{
 		"type":"git",
