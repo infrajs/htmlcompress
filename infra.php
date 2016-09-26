@@ -4,7 +4,7 @@ use infrajs\view\View;
 use infrajs\access\Access;
 use WyriHaximus\HtmlCompress;
 
-Event::one('Infrajs.onshow', function () {
+Event::one('Controller.onshow', function () {
 
 	if (Access::debug()) return;
 	$html = View::html();
